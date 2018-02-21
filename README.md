@@ -1,2 +1,2 @@
 # learning-c
-Learning C programming
+My repo for learning C programming
