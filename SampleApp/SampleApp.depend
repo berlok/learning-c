@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1519224177 source:/home/longfei/projects/learning-c/SampleApp/test.c
+	<stdio.h>
+
+1519298230 source:/home/longfei/projects/learning-c/SampleApp/readinput.c
+	<stdio.h>
+
